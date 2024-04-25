@@ -6,9 +6,7 @@ import androidx.compose.ui.test.performClick
 import androidx.compose.ui.test.performTextInput
 import androidx.test.core.app.ActivityScenario
 import androidx.test.ext.junit.runners.AndroidJUnit4
-import androidx.test.platform.app.InstrumentationRegistry
-import com.example.feastfinder.MainActivity
-import com.example.feastfinder.ui.theme.login.ui.LoginViewModel
+import com.example.feastfinder.viewmodel.LoginViewModel
 import org.junit.Before
 import org.junit.Rule
 import org.junit.Test

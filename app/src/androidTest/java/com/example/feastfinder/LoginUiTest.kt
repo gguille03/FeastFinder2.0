@@ -1,4 +1,4 @@
-package com.example.feastfinder.ui.theme.login.ui
+package com.example.feastfinder.ui.theme.login.views
 import android.util.Patterns
 //import com.example.feastfinder.ui.theme.login.ui.isValidLogin
 import org.jetbrains.annotations.VisibleForTesting

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FeastFinder</string>
+    <string name="chilaquiles">Chilaquiles</string>
+    <string name="camaron">tacos de camarones al chipotle</string>
+    <string name="pizza">Pizzas</string>
+    <string name="pastel">Pastel de chocolate</string>
+    <string name="pozole">Pozole </string>
+    <string name="flan">Flan </string>
 </resources>

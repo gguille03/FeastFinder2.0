@@ -1,4 +1,4 @@
-package com.example.feastfinder.ui.theme.login.ui
+package com.example.feastfinder.viewmodel
 
 import android.util.Patterns
 import androidx.lifecycle.LiveData
